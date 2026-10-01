@@ -1,1 +1,1 @@
-Checkpoint SQL de Ingeniería de Datos.
+Checkpoint Data Analytics.
